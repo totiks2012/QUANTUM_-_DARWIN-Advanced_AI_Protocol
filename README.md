@@ -1,6 +1,7 @@
 # QUANTUM_-_DARWIN-Advanced_AI_Protocol
 Advanced protocols for creating AI prompts
- Хороший код не многоречив.
+
+ Хороший код краток.
 
 ---
 
